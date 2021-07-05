@@ -13,3 +13,10 @@ function isValidSubsequence(array, sequence) {
       return false
   }
 //Yay sorting stuff
+function sortedSquaredArray(array) {
+    // Write your code here.
+      const sortedSquares = array.map(ele => ele*ele)
+
+      sortedSquares.sort((a,b)=> a-b);
+      return sortedSquares;
+  }
