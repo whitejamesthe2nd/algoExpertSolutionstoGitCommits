@@ -13,4 +13,3 @@ function isValidSubsequence(array, sequence) {
       return false
   }
 //Yay sorting stuff
-//Bokutachiwa
