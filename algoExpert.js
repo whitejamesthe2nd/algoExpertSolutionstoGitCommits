@@ -20,3 +20,4 @@ function sortedSquaredArray(array) {
       sortedSquares.sort((a,b)=> a-b);
       return sortedSquares;
   }
+  // more to do
