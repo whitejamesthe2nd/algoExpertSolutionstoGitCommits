@@ -21,3 +21,4 @@ function sortedSquaredArray(array) {
       return sortedSquares;
   }
   // more to do
+  // Happy Birthday James
