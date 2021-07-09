@@ -22,3 +22,4 @@ function sortedSquaredArray(array) {
   }
   // more to do
   // Happy Birthday James
+  // Too much volcano
